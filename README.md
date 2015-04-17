@@ -32,14 +32,11 @@ This is a HTML that can be used to start a project with some basic framework alr
 3. Use 'cd' command to change into this new directory
 4. Use 'git clone <url>' to pull these files from GitHub to your directory on your computer 
 
-Once you have cloned all the files out of this http://github.com - automatic!
-[GitHub](http://github.com) repository there are a couple good things to know before you get going. 
+Once you have cloned all the files out of this [GitHub](http://github.com) repository there are a couple good things to know before you get going. 
 * 'index.html' Is a good place to build your html framework and put your main information within the <body> tag
 * 'stylesheet.css' Can be used to put styling to your sweet html using CSS
 * 'script.js' Can be used to functionality to your website like processing user information
 
-Vince Jones
-vincethebutcher@gmail.com
 
 ###Doctype
 
@@ -100,6 +97,10 @@ provides a title for the page when it is added to favorites, and displays a titl
 ```html
 <title>Empty HTML5 Template</title>
 ```
+
+###Contact Information
+Vince Jones
+vincethebutcher@gmail.com
 
 ####Be sure to commit your changes to your development branch frequently!
 ![image](http://www.fillmurray.com/415/300)
