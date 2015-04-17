@@ -25,6 +25,21 @@ This assignment will build upon basic Git knowledge and illustrate a full Git wo
 This is the file you're reading. Add any content you like!
 
 ##index.html
+This is a HTML that can be used to start a project with some basic framework already in place. When starting a new project, for example about __Batman__, this will give you a jumpstart to get your **Bat-tastic** information out on the web quicker. To use the HTML document, make a clone to your computer. Here are some helpful steps to get you going.
+
+1. Pull up terminal on your computer
+2. Use 'mkdir <name of directory>' to create a directory where you would like to store your awesome Batman website 
+3. Use 'cd' command to change into this new directory
+4. Use 'git clone <url>' to pull these files from GitHub to your directory on your computer 
+
+Once you have cloned all the files out of this http://github.com - automatic!
+[GitHub](http://github.com) repository there are a couple good things to know before you get going. 
+* 'index.html' Is a good place to build your html framework and put your main information within the <body> tag
+* 'stylesheet.css' Can be used to put styling to your sweet html using CSS
+* 'script.js' Can be used to functionality to your website like processing user information
+
+Vince Jones
+vincethebutcher@gmail.com
 
 ###Doctype
 
